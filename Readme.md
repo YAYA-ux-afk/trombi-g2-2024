@@ -5,10 +5,10 @@ Ce projet consiste à créer un tableau HTML représentant la liste des étudian
 
 ## 🛠️ Structure
 - **index.html** : Contient le tableau HTML avec les colonnes suivantes :
-  - `#` : Numéro de l'étudiant
-  - `Nom` : Nom de l'étudiant
-  - `Prénom` : Prénom de l'étudiant
-  - `Email` : Adresse email de l'étudiant
+  - `#` : 66264936
+  - `Nom` : YAYA MOUDACHIROU
+  - `Prénom` : Kamilath
+  - `Email` :moudachiroukamilath@gmail.com
 
 ## 📋 Instructions
 ### 1. ✏️ Ajouter vos informations 
